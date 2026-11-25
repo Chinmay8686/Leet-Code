@@ -1,9 +1,7 @@
-# [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/submissions/2203365220/)
+# [1079. Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange?style=flat-square)
 ![Language: python3](https://img.shields.io/badge/Language-python3-blue?style=flat-square)
-![Runtime](https://img.shields.io/badge/Runtime-N%2FA-success?style=flat-square)
-![Memory](https://img.shields.io/badge/Memory-N%2FA-informational?style=flat-square)
 
 
 ### Topics
